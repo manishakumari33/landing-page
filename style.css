@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+.container{
+    margin-left: 20px;
+}
+.para1{
+    margin-bottom: 40px;
+}
+nav{
+    height: 40px;
+    margin-bottom: 40px;
+    padding-top: 8px ;
+    padding-left: 20px;
+    
+}
+h1{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+table {
+    border-collapse:collapse;
+  }
+  td,th {
+    border: 1px solid black;
+    padding: 20px 20px;
+}
+.order-list{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.unorder-list{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.btn{
+    background-color: black;
+    color: white ;
+    border: none;
+    width: 10%;
+    height:35px;
+}
